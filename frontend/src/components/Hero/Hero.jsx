@@ -1,5 +1,4 @@
-// frontend/src/components/Hero/Hero.jsx
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import GoogleSignIn from "../GoogleSignIn/GoogleSignIn"; // adjust path if your file is elsewhere
 import { useUser } from "../../contexts/UserContext";
@@ -12,14 +11,36 @@ const IMGS = [
 ];
 
 export default function Hero() {
+  const [theme, setTheme] = useState('light'); // Default theme is light
   const { user, login } = useUser(); // MUST be inside component body
   const navigate = useNavigate();
 
+  // This effect will run once on component mount to set the initial theme
+  useEffect(() => {
+    // On initial load, set the theme based on localStorage (if available)
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme) {
+      setTheme(savedTheme);
+      document.body.setAttribute('data-theme', savedTheme);
+    } else {
+      // If no theme saved, default to light
+      document.body.setAttribute('data-theme', 'light');
+    }
+  }, []);
+
+  // Toggle theme between light and dark
+  const toggleTheme = () => {
+    const newTheme = theme === 'light' ? 'dark' : 'light';
+    setTheme(newTheme);
+    // Apply theme to body
+    document.body.setAttribute('data-theme', newTheme);
+    // Optionally save to localStorage so the theme persists on page reload
+    localStorage.setItem('theme', newTheme);
+  };
+
   async function handleGoogleSuccess(data) {
-    // data is expected from your backend or the Google wrapper
     const u = data?.user ?? { id: 1, name: "Demo User", email: "demo@dietcare.app" };
     login(u);
-    // simple redirect: if profile exists redirect to home, else onboarding
     try {
       const res = await fetch(`${import.meta.env.VITE_API_BASE || "http://localhost:4000"}/profiles?user_id=${u.id}`);
       const arr = await res.json();
@@ -35,7 +56,9 @@ export default function Hero() {
         <div className="dc-logo">DietCare</div>
 
         <div className="dc-nav-right">
-          <button className="btn-ghost" aria-label="theme">🌙</button>
+          <button className="btn-ghost" aria-label="theme" onClick={toggleTheme}>
+            {theme === 'light' ? '🌙' : '☀️'}
+          </button>
 
           {/* Use Link so navigation is SPA-style */}
           <Link to="/login"><button className="btn-ghost">Login</button></Link>
