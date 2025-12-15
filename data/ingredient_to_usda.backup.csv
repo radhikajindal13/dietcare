@@ -1,0 +1,44 @@
+ingredient_raw,ingredient_norm,fdc_id,fdc_description,match_score,mapped_by,_norm_ing
+banana,banana,321358,16158,0.0,fuzzy_manual_review,banana
+bell pepper,bell pepper,321358,16158,0.0,fuzzy_manual_review,bell pepper
+berries,berries,321358,16158,0.0,fuzzy_manual_review,berries
+broccoli,broccoli,321358,16158,0.0,fuzzy_manual_review,broccoli
+carrot,carrot,321358,16158,0.0,fuzzy_manual_review,carrot
+celery,celery,321358,16158,0.0,fuzzy_manual_review,celery
+chia,chia,321358,16158,0.0,fuzzy_manual_review,chia
+chickpeas,chickpeas,321358,16158,0.0,fuzzy_manual_review,chickpeas
+coriander,coriander,321358,16158,0.0,fuzzy_manual_review,coriander
+cucumber,cucumber,321358,16158,0.0,fuzzy_manual_review,cucumber
+cumin,cumin,321358,16158,0.0,fuzzy_manual_review,cumin
+garlic,garlic,321358,16158,0.0,fuzzy_manual_review,garlic
+ghee (small),ghee,321358,16158,0.0,fuzzy_manual_review,ghee
+ginger,ginger,321358,16158,0.0,fuzzy_manual_review,ginger
+lemon,lemon,321358,16158,0.0,fuzzy_manual_review,lemon
+lime,lime,321358,16158,0.0,fuzzy_manual_review,lime
+masoor dal,masoor dal,321358,16158,0.0,fuzzy_manual_review,masoor dal
+milk,milk,321358,16158,0.0,fuzzy_manual_review,milk
+mixed berries,mixed berries,321358,16158,0.0,fuzzy_manual_review,mixed berries
+mixed greens,mixed greens,321358,16158,0.0,fuzzy_manual_review,mixed greens
+mixed vegetables,mixed vegetables,321358,16158,0.0,fuzzy_manual_review,mixed vegetables
+moong dal,moong dal,321358,16158,0.0,fuzzy_manual_review,moong dal
+moong sprouts,moong sprouts,321358,16158,0.0,fuzzy_manual_review,moong sprouts
+mustard seeds,mustard seeds,321358,16158,0.0,fuzzy_manual_review,mustard seeds
+olive oil,olive oil,321358,16158,0.0,fuzzy_manual_review,olive oil
+onion,onion,321358,16158,0.0,fuzzy_manual_review,onion
+paneer,paneer,321358,16158,0.0,fuzzy_manual_review,paneer
+peanuts (optional),peanuts optional,321358,16158,0.0,fuzzy_manual_review,peanuts optional
+quinoa,quinoa,321358,16158,0.0,fuzzy_manual_review,quinoa
+rava/semolina,rava semolina,321358,16158,0.0,fuzzy_manual_review,rava semolina
+rice,rice,321358,16158,0.0,fuzzy_manual_review,rice
+rolled oats,rolled oats,321358,16158,0.0,fuzzy_manual_review,rolled oats
+soy sauce (low-sodium),soy sauce low sodium,321358,16158,0.0,fuzzy_manual_review,soy sauce low sodium
+spices,spices,321358,16158,0.0,fuzzy_manual_review,spices
+spinach,spinach,321358,16158,0.0,fuzzy_manual_review,spinach
+tofu,tofu,321358,16158,0.0,fuzzy_manual_review,tofu
+tomato,tomato,321358,16158,0.0,fuzzy_manual_review,tomato
+turmeric,turmeric,321358,16158,0.0,fuzzy_manual_review,turmeric
+vegetable stock,vegetable stock,321358,16158,0.0,fuzzy_manual_review,vegetable stock
+vegetables,vegetables,321358,16158,0.0,fuzzy_manual_review,vegetables
+white fish,white fish,321358,16158,0.0,fuzzy_manual_review,white fish
+yogurt,yogurt,321358,16158,0.0,fuzzy_manual_review,yogurt
+zucchini,zucchini,321358,16158,0.0,fuzzy_manual_review,zucchini

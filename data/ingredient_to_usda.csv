@@ -1,0 +1,44 @@
+ingredient_raw,ingredient_norm,fdc_id,fdc_description,match_score,mapped_by
+banana,banana,321358,16158,0.0,fuzzy_manual_review
+bell pepper,bell pepper,321358,16158,0.0,fuzzy_manual_review
+berries,berries,321358,16158,0.0,fuzzy_manual_review
+broccoli,broccoli,321358,16158,0.0,fuzzy_manual_review
+carrot,carrot,321358,16158,0.0,fuzzy_manual_review
+celery,celery,321358,16158,0.0,fuzzy_manual_review
+chia,chia,321358,16158,0.0,fuzzy_manual_review
+chickpeas,chickpeas,321358,16158,0.0,fuzzy_manual_review
+coriander,coriander,321358,16158,0.0,fuzzy_manual_review
+cucumber,cucumber,321358,16158,0.0,fuzzy_manual_review
+cumin,cumin,321358,16158,0.0,fuzzy_manual_review
+garlic,garlic,321358,16158,0.0,fuzzy_manual_review
+ghee (small),ghee,321358,16158,0.0,fuzzy_manual_review
+ginger,ginger,321358,16158,0.0,fuzzy_manual_review
+lemon,lemon,321358,16158,0.0,fuzzy_manual_review
+lime,lime,321358,16158,0.0,fuzzy_manual_review
+masoor dal,masoor dal,321358,16158,0.0,fuzzy_manual_review
+milk,milk,321358,16158,0.0,fuzzy_manual_review
+mixed berries,mixed berries,321358,16158,0.0,fuzzy_manual_review
+mixed greens,mixed greens,321358,16158,0.0,fuzzy_manual_review
+mixed vegetables,mixed vegetables,321358,16158,0.0,fuzzy_manual_review
+moong dal,moong dal,321358,16158,0.0,fuzzy_manual_review
+moong sprouts,moong sprouts,321358,16158,0.0,fuzzy_manual_review
+mustard seeds,mustard seeds,321358,16158,0.0,fuzzy_manual_review
+olive oil,olive oil,321358,16158,0.0,fuzzy_manual_review
+onion,onion,321358,16158,0.0,fuzzy_manual_review
+paneer,paneer,321358,16158,0.0,fuzzy_manual_review
+peanuts (optional),peanuts optional,321358,16158,0.0,fuzzy_manual_review
+quinoa,quinoa,321358,16158,0.0,fuzzy_manual_review
+rava/semolina,rava semolina,321358,16158,0.0,fuzzy_manual_review
+rice,rice,321358,16158,0.0,fuzzy_manual_review
+rolled oats,rolled oats,321358,16158,0.0,fuzzy_manual_review
+soy sauce (low-sodium),soy sauce low sodium,321358,16158,0.0,fuzzy_manual_review
+spices,spices,321358,16158,0.0,fuzzy_manual_review
+spinach,spinach,321358,16158,0.0,fuzzy_manual_review
+tofu,tofu,321358,16158,0.0,fuzzy_manual_review
+tomato,tomato,321358,16158,0.0,fuzzy_manual_review
+turmeric,turmeric,321358,16158,0.0,fuzzy_manual_review
+vegetable stock,vegetable stock,321358,16158,0.0,fuzzy_manual_review
+vegetables,vegetables,321358,16158,0.0,fuzzy_manual_review
+white fish,white fish,321358,16158,0.0,fuzzy_manual_review
+yogurt,yogurt,321358,16158,0.0,fuzzy_manual_review
+zucchini,zucchini,321358,16158,0.0,fuzzy_manual_review

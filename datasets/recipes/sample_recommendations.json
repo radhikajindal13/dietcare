@@ -1,0 +1,26 @@
+{
+    "recommendations": [
+      {
+        "id": 2,
+        "title": "Low Sodium Veggie Soup",
+        "calories": 150,
+        "image": "https://via.placeholder.com/400x240?text=Veggie+Soup",
+        "reason": "Low sodium — suitable for hypertension"
+      },
+      {
+        "id": 8,
+        "title": "Berry Smoothie (No Sugar)",
+        "calories": 180,
+        "image": "https://via.placeholder.com/400x240?text=Berry+Smoothie",
+        "reason": "Low sugar — fits diabetes-friendly plan"
+      },
+      {
+        "id": 6,
+        "title": "Spiced Chickpea Salad",
+        "calories": 310,
+        "image": "https://via.placeholder.com/400x240?text=Chickpea+Salad",
+        "reason": "High fiber & quick — matches your likes"
+      }
+    ]
+  }
+  

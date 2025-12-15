@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "title": "Grilled Paneer Salad",
+      "ingredients": ["paneer", "mixed greens", "tomato", "cucumber", "olive oil", "lemon"],
+      "calories": 320,
+      "prep_time_min": 15,
+      "tags": ["low-carb","vegetarian","high-protein"],
+      "image": "https://via.placeholder.com/400x240?text=Paneer+Salad"
+    },
+    {
+      "id": 2,
+      "title": "Low Sodium Veggie Soup",
+      "ingredients": ["carrot", "celery", "tomato", "onion", "vegetable stock"],
+      "calories": 150,
+      "prep_time_min": 20,
+      "tags": ["low-sodium","vegan","light"],
+      "image": "https://via.placeholder.com/400x240?text=Veggie+Soup"
+    },
+    {
+      "id": 3,
+      "title": "Oats & Fruit Porridge",
+      "ingredients": ["rolled oats", "milk", "banana", "berries", "chia"],
+      "calories": 280,
+      "prep_time_min": 10,
+      "tags": ["high-fiber","breakfast","vegetarian"],
+      "image": "https://via.placeholder.com/400x240?text=Oats+Porridge"
+    },
+    {
+      "id": 4,
+      "title": "Lentil Khichdi (Light)",
+      "ingredients": ["moong dal", "rice", "turmeric", "ghee (small)", "vegetables"],
+      "calories": 350,
+      "prep_time_min": 30,
+      "tags": ["balanced","low-spice","vegetarian"],
+      "image": "https://via.placeholder.com/400x240?text=Khichdi"
+    },
+    {
+      "id": 5,
+      "title": "Quinoa Veg Bowl",
+      "ingredients": ["quinoa", "broccoli", "bell pepper", "olive oil", "lemon"],
+      "calories": 360,
+      "prep_time_min": 25,
+      "tags": ["high-protein","gluten-free","vegan"],
+      "image": "https://via.placeholder.com/400x240?text=Quinoa+Bowl"
+    },
+    {
+      "id": 6,
+      "title": "Spiced Chickpea Salad",
+      "ingredients": ["chickpeas", "cucumber", "onion", "coriander", "lemon", "spices"],
+      "calories": 310,
+      "prep_time_min": 10,
+      "tags": ["high-fiber","vegan","quick"],
+      "image": "https://via.placeholder.com/400x240?text=Chickpea+Salad"
+    },
+    {
+      "id": 7,
+      "title": "Grilled Fish with Veg",
+      "ingredients": ["white fish", "lemon", "garlic", "zucchini", "olive oil"],
+      "calories": 400,
+      "prep_time_min": 20,
+      "tags": ["low-carb","pescatarian","low-sodium"],
+      "image": "https://via.placeholder.com/400x240?text=Grilled+Fish"
+    },
+    {
+      "id": 8,
+      "title": "Berry Smoothie (No Sugar)",
+      "ingredients": ["mixed berries", "yogurt", "milk", "chia"],
+      "calories": 180,
+      "prep_time_min": 5,
+      "tags": ["low-sugar","breakfast","quick"],
+      "image": "https://via.placeholder.com/400x240?text=Berry+Smoothie"
+    },
+    {
+      "id": 9,
+      "title": "Stir-fry Tofu & Veg",
+      "ingredients": ["tofu","broccoli","soy sauce (low-sodium)","garlic","ginger"],
+      "calories": 340,
+      "prep_time_min": 18,
+      "tags": ["high-protein","vegan","quick"],
+      "image": "https://via.placeholder.com/400x240?text=Tofu+Stirfry"
+    },
+    {
+      "id": 10,
+      "title": "Moong Sprout Chaat",
+      "ingredients": ["moong sprouts","tomato","onion","lime","coriander"],
+      "calories": 200,
+      "prep_time_min": 12,
+      "tags": ["high-protein","low-fat","snack"],
+      "image": "https://via.placeholder.com/400x240?text=Sprout+Chaat"
+    },
+    {
+      "id": 11,
+      "title": "Vegetable Upma (Light)",
+      "ingredients": ["rava/semolina","mixed vegetables","mustard seeds","peanuts (optional)"],
+      "calories": 330,
+      "prep_time_min": 20,
+      "tags": ["breakfast","vegetarian","light"],
+      "image": "https://via.placeholder.com/400x240?text=Upma"
+    },
+    {
+      "id": 12,
+      "title": "Masoor Dal & Greens",
+      "ingredients": ["masoor dal","spinach","tomato","turmeric","cumin"],
+      "calories": 300,
+      "prep_time_min": 25,
+      "tags": ["balanced","vegetarian","iron-rich"],
+      "image": "https://via.placeholder.com/400x240?text=Masoor+Dal"
+    }
+  ]
+  

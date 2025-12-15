@@ -1,0 +1,10 @@
+/* src/pages/home.css */
+.home { padding: 28px 18px; }
+.home-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:20px; }
+.home-header h2 { margin:0; font-size:24px; }
+.muted { color:var(--muted); }
+.quick-filters { display:flex; gap:10px; }
+.filter { padding:8px 12px; border-radius:12px; border:1px solid #e6f4ef; background:#fff; cursor:pointer; }
+.recipe-grid { display:grid; grid-template-columns: repeat(auto-fill,minmax(260px,1fr)); gap:18px; }
+.grid-skeleton { height:200px; background:linear-gradient(90deg,#f7fff8,#f1f6f2); border-radius:12px; }
+.empty { padding:40px; text-align:center; color:var(--muted); background:white; border-radius:12px; box-shadow:0 8px 24px rgba(16,24,32,0.04); }
